@@ -1,6 +1,6 @@
 import imageio.v3 as iio
 
-filenames = ['xxx']
+filenames = ['xxx.jpg.png']
 images = [ ]
 
 for filename in filenames:
